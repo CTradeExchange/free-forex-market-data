@@ -58,3 +58,5 @@ Free Forex Quote API 免费的外汇贵金属行情API
 
 ## 其他作品
 
+- Free Quote:https://github.com/CTradeExchange/free-quote
+- Free Crypto Quote API:https://github.com/CTradeExchange/free-crypto-market-data
