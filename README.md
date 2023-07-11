@@ -54,7 +54,8 @@ Free Forex Quote API 免费的外汇贵金属行情API
 
 ## 联系我们
 
-- Telegram: https://t.me/ts_support_erik
+- Telegram: https://t.me/JustinCaspian
+- Email: cavill.yu@chixi88.com
 
 ## 其他作品
 
