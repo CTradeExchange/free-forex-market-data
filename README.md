@@ -44,6 +44,9 @@ Free Forex Quote API 免费的外汇贵金属行情API
 - [盘口报价订阅](./websocket接口/盘口报价订阅.md)
 - [取消报价订阅](./websocket接口/取消报价订阅.md)
 
+## 免费token获取
+- [token申请](./token申请.md)
+
 ## 使用示例,超简单上手
 
 ### python:
@@ -61,8 +64,8 @@ Free Forex Quote API 免费的外汇贵金属行情API
 
 ## 联系我们
 
-- Telegram: https://t.me/JustinCaspian
-- Email: cavill.yu@chixi88.com
+- Telegram: https://t.me/TS_SUPPORT_Lester
+- Email: lester.lin@chixi88.com
 
 ## 其他作品
 
