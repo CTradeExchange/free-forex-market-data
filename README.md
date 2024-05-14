@@ -6,7 +6,7 @@
 [https://github.com/alltick/realtime-forex-crypto-stock-tick-finance-websocket-api](https://github.com/alltick/realtime-forex-crypto-stock-tick-finance-websocket-api)
 
 
-# 免费开源外汇、贵金属、黄金实时数据行情API
+# 免费开源外汇、贵金属、黄金实时数据行情API、汇率API
 Free Forex Quote API 免费开源外汇、贵金属、黄金实时数据行情API
 
 简单好用的免费开源外汇、贵金属、黄金实时数据行情API
@@ -32,6 +32,8 @@ Free Forex Quote API 免费开源外汇、贵金属、黄金实时数据行情AP
 - 获取黄金实时多档盘口API
 
 - 获取黄金K线数据API
+  
+  - 获取实时汇率API
   
 
 
