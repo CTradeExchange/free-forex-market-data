@@ -33,7 +33,7 @@ Free Forex Quote API 免费开源外汇、贵金属、黄金实时数据行情AP
 
 - 获取黄金K线数据API
   
-  - 获取实时汇率API
+- 获取实时汇率API
   
 
 
