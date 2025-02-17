@@ -4,7 +4,7 @@ import websocket    # pip install websocket-client
 class Feed(object):
 
     def __init__(self):
-        self.url = 'wss://quote.aatest.online/quote-b-ws-api?token=3662a972-1a5d-4bb1-88b4-66ca0c402a03-1688712831841'  # 这里输入websocket的url
+        self.url = 'wss://quote.alltick.io/quote-b-ws-api?token=3662a972-1a5d-4bb1-88b4-66ca0c402a03-1688712831841'  # 这里输入websocket的url
         self.ws = None
 
     def on_open(self, ws):

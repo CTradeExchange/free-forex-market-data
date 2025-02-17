@@ -24,7 +24,7 @@ type Request struct {
 }
 
 const(
-	url = "wss://quote.aatest.online/quote-b-ws-api?token=3662a972-1a5d-4bb1-88b4-66ca0c402a03-1688712831841"
+	url = "wss://quote.alltick.io/quote-b-ws-api?token=3662a972-1a5d-4bb1-88b4-66ca0c402a03-1688712831841"
 )
 
 func websocket_example() {
