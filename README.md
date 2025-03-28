@@ -77,11 +77,6 @@ Free Forex Quote API 免费开源外汇、贵金属、黄金实时数据行情AP
 - [http请求示例](./example/java/HttpJavaExample.java)
 - [websocket请求示例](./example/java/WebSocketJavaExample.java)
 
-## 联系我们
-
-- Telegram: https://t.me/TS_SUPPORT_Lester
-- Email: lester.lin@chixi88.com
-
 ## 其他作品
 
 - Free Quote:https://github.com/CTradeExchange/free-quote
